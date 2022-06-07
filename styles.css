@@ -1,0 +1,21 @@
+input {
+    margin: 5px; 
+}
+label {
+   color: rgb(85, 77, 85); 
+}
+
+body {
+   text-align: center;
+   font-family: Arial, Helvetica, sans-serif;
+   color: #fff;
+   background-color: cadetblue;
+}
+
+footer {
+    background-color: black;
+}
+
+
+
+
